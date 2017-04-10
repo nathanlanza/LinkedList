@@ -1,21 +1,3 @@
-# WARNING
-
-Thank you for using LinkedList. Before you release your awesome project to the world, complete the following steps.
-
-THIS LIST IS EASY, CHECK IT OFF ONE-BY-ONE BABY!
-
- - [ ] Open the project in Xcode and add features to LinkedList
- - [ ] Make sure you are using Swift 3 ("Convert to latest Swift syntax")
- - [ ] Fix all build errors and warnings, add tests (yes really)
- - [ ] Add a screenshot or AT LEAST some picture, and fill in this readme
- - [ ] Add all details to your [Podspec](LinkedList.podspec)
- - [ ] Delete all this crap up here
- - [ ] Make one release (full steps are in [CONTRIBUTING.md] in case you forget)
-
-THEN YOU'RE DONE, GO STAR [swift3-module-template](https://github.com/fulldecent/swift3-module-template) FOR UPDATES.
-
-----
-
 # LinkedList
 
 [![CI Status](http://img.shields.io/travis/nathanlanza/LinkedList.svg?style=flat)](https://travis-ci.org/nathanlanza/LinkedList)
@@ -24,21 +6,11 @@ THEN YOU'RE DONE, GO STAR [swift3-module-template](https://github.com/fulldecent
 [![Platform](https://img.shields.io/cocoapods/p/LinkedList.svg?style=flat)](https://cocoapods.org/pods/LinkedList)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-<a href="https://placehold.it/400?text=Screen+shot"><img width=200 height=200 src="https://placehold.it/400?text=Screen+shot" alt="Screenshot" /></a>
-
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-
-## Requirements
-
-
-## Installation
+A LinkedList implementation that fully conforms to the expected Swift collection framework. This includes `Collection`, `MutableCollection`, `BidirectionalCollection`, `RangeReplaceableCollection` and `Sequence` along with a few other standard Swift protocols.
 
 ### CocoaPods
 
+[NYI]
 [CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
 
 ```bash
